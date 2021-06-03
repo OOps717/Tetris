@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/play.dir/button.cpp.o CMakeFiles/play.dir/tetrimino.cpp.o CMakeFiles/play.dir/solo.cpp.o CMakeFiles/play.dir/ordi.cpp.o CMakeFiles/play.dir/main.cpp.o  -o play  -lSDL2 -lSDL2main 

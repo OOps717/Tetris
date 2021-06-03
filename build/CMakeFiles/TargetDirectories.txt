@@ -1,3 +1,0 @@
-/home/oops/UNISTRA/S2/Prog_avanc/Projet/Final_Version/build/CMakeFiles/rebuild_cache.dir
-/home/oops/UNISTRA/S2/Prog_avanc/Projet/Final_Version/build/CMakeFiles/edit_cache.dir
-/home/oops/UNISTRA/S2/Prog_avanc/Projet/Final_Version/build/CMakeFiles/play.dir
